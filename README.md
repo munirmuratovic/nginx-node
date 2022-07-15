@@ -1,4 +1,4 @@
-# Nginx - Node
+# Nginx - Node [Obsolete as of 15th June 2022]
 ## With SSL from Letsencrypt dockerized - done right way
 
 Go to folder and run:
